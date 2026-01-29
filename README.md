@@ -1,5 +1,8 @@
 # Lego Star Wars (2005)
 
+![ezgif com-animated-gif-maker (5)](https://github.com/user-attachments/assets/ebb5e448-56aa-4671-b8cc-c4263f29c29b)
+
+
 # Requirements before using fix
 Before using the fix for it to work properly you must have patched the game up to 1.0.0.2 release. If you have not updated your Lego Star Wars (2005) already then you can download the patch from here - https://community.pcgamingwiki.com/files/file/438-lego-star-wars-patcher/ 
 
