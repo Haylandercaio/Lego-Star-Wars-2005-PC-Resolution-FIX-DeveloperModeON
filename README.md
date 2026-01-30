@@ -1,5 +1,5 @@
 [![FPS](https://img.shields.io/badge/FPS-Fix-2ea44f?style=flat-square)](#FPS)
-[![Resolution](https://img.shields.io/badge/Resolution-Fix-2ea44f?style=flat-square)](#Resolution/AspectRatio)
+[![Resolution](https://img.shields.io/badge/Resolution-Fix-2ea44f?style=flat-square)](#Resolution)
 [![Developer%20Menu](https://img.shields.io/badge/Developer%20Menu-Unlocked-2ea44f?style=flat-square)](#developer-menu)
 
 
@@ -42,7 +42,8 @@ Before using the fix for it to work properly you must have patched the game up t
 # Instructions
 Go to releases and download the latest LegoStarWars(2005)Fix.zip, extract the d3d9.dll and d3d9.ini files into your game folder next to the LegoStarWars.exe file and you are good to go! You can edit the settings you wish to use in the d3d9.ini file.
 
-# Resolution/AspectRatio
+# Resolution
+# Aspect Ratio & HUD corrections
 The default for resolution is set to (1920 x 1080) in the d3d9.ini file. Put the resolution that you wish to use in both the Width and Height area.
 Aspect Ratio and Hud size is auto calculated by the Resolution you choose.
 
