@@ -18,7 +18,13 @@ Reverse Engineering • Programming • Patching • Game Improvements • DLL C
 
 # Lego Star Wars (2005)
 
+# Resolution Fix
+
 ![ezgif com-animated-gif-maker (5)](https://github.com/user-attachments/assets/ebb5e448-56aa-4671-b8cc-c4263f29c29b)
+
+# Debug/ Developer Menu Enabled
+
+![ezgif com-animated-gif-maker (6)](https://github.com/user-attachments/assets/3f8713c7-bbb7-407a-91d0-42c61be9cc79)
 
 
 # Requirements before using fix
@@ -33,6 +39,49 @@ Aspect Ratio and Hud size is auto calculated by the Resolution you choose.
 
 # FPS
 The default for FPS is (60) you can change it as you wish with the FPSLimit option in the d3d9.ini file. It is recommended to not go above 60.
+
+# Debug Menu
+
+put ChipDebugLSW.exe and ChipDebug.ini with d3d9.dll and d3d9.ini 
+
+go into ChipDebug.ini and set the settings, you should pay attention to your region of your game. if you want the game to run after you run the patcher program set LAUNCH_GAME=1 if not then LAUNCH_GAME=0 default is 0 
+
+; ============================================================
+;  REGION SETTINGS
+; ============================================================
+;
+;  Set EXACTLY ONE of the following to 1.
+;  All others must be 0.
+;
+;  EU        = Patch the EUROPE / PAL version of the game
+;  EU_RESET  = Restore the ORIGINAL EU executable
+;
+;  US        = Patch the UNITED STATES / NTSC version of the game
+;  US_RESET  = Restore the ORIGINAL US executable
+;
+;  Examples:
+;
+;    Enable EU debug:
+;      EU=1
+;
+;    Disable EU debug:
+;      EU_RESET=1
+;
+; ============================================================
+
+[REGION]
+
+; --- Region selection (choose ONE only) ---
+EU=1
+EU_RESET=0
+US=0
+US_RESET=0
+
+;  Debug menu becomes available in the game after patching it 
+;  once enabled, advice don't use in the main menu its a bit buggy
+;  use it once you get into the game itself by pausing and going to options.
+
+After setting up in the ini then run ChipDebugLSW.exe then you can play the game normally by using LegoStarwars.exe, if for any reason you want to turn off developer mode then just use the patcher program again. it will also give you a LegoStarwars.exe.bak incase of failures.
 
 # Vote to see the game return via GOG Dreamlist
 If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/lego-star-wars-the-video-game-2005 
